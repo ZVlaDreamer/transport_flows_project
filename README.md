@@ -10,7 +10,7 @@ https://github.com/bstabler/TransportationNetworks
 ![logit_gamma_00_1](./images/logit_gamma_00_1.jpg)
 
 ### Случай динамики наилучших решений
-![best_response.jpg](./images/best_response.jpg)
+![logit_1e-05_0_1.jpg](./images/logit_1e-05_0_1.jpg)
 
 - Жолобов Владимир, tg: @VlaDreamer
 - Ерлыгин Леонид, tg: @icekingoo
