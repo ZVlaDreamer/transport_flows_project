@@ -1,0 +1,5 @@
+scipy
+igraph
+matplotlib
+scanf
+pandas
